@@ -12,8 +12,8 @@ This web application displays customer records stored in an SQLite database. It 
 ## Setup
 
 1. Clone this repository.
-2. Install Flask (`pip install flask`).
-3. Run the application (`python app.py`).
+2. Install npm (`npm i`).
+3. Run the application (`npm run dev`).
 
 
 ## Database
